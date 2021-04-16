@@ -1,0 +1,9 @@
+.log{
+    height: 300px;
+    width: 1290px;
+    overflow: auto;
+}
+
+.red{
+	color: red;
+}
